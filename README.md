@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerhard</h1>
-<h3 align="center">I'm a Front-end Developer from Cape Town.</h3>
+<h3 align="center">I'm a Front-end Web Developer from Cape Town.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerput&label=Profile%20views&color=0e75b6&style=flat" alt="gerput" /> </p>
 
