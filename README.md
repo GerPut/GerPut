@@ -11,7 +11,7 @@
 
 - 📫 Contact me: **gerhard.putter1@gmail.com.**
 
-- ⚡ Fun fact **I'm a competitive person who loves playing poker.**
+- ⚡ Fun fact **I love to play poker.**
 
 - **<img src="https://www.codewars.com/users/GerPut/badges/large"/>**
 
