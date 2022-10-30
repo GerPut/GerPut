@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerput&label=Profile%20views&color=0e75b6&style=flat" alt="gerput" /> </p>
 
-- 🔭 My current focus is on **building CRUD applications.**
+- 🔭 My current focus is on **learning more about Vue and Shopify theme development.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **new things at work everyday**
 
 - 👨‍💻 My latest portfolio projects are available at [www.coderg.dev]( https://www.coderg.dev/ )
 
