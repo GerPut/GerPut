@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerput&label=Profile%20views&color=0e75b6&style=flat" alt="gerput" /> </p>
 
-- 🔭 My current focus is on **learning more about Vue and Shopify theme development.**
-
-- 🌱 I’m currently learning **new things at work everyday**
-
 - 👨‍💻 My latest portfolio projects are available at [www.coderg.dev]( https://www.coderg.dev/ )
-
-- 📫 Contact me: **gerhard.putter1@gmail.com.**
-
-- ⚡ Fun fact **I love to play poker.**
 
 - **<img src="https://www.codewars.com/users/GerPut/badges/large"/>**
 
